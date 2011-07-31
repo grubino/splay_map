@@ -1,0 +1,1 @@
+STL map implemented with a splay tree.  It provides an identical interface to the STL map.
